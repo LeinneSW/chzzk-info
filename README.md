@@ -9,19 +9,26 @@
 * **쿨러**: [3RSYS Socoool RC1900N 솔더링 (블랙)](https://prod.danawa.com/info/?pcode=52261076)
 * **팬**: [ARCTIC P14 MAX (블랙)](https://prod.danawa.com/info/?pcode=53520110) x 5
 
-## 게임 장비
-* **키보드**: [한성컴퓨터 TFG Magnetox XF (Mocha Cocoa)](https://prod.danawa.com/info/?pcode=59269538)
-* **마우스**: [로지텍 G PRO X SUPERLIGHT 2 (화이트)](https://prod.danawa.com/info/?pcode=28481684)
-* **모니터**: [HP 오멘 27qs](https://prod.danawa.com/info/?pcode=20667995)
-
 ## 송출 PC 사양
 * **CPU**: [Intel Core i5-12500](https://prod.danawa.com/info/?pcode=16101398)
 * **RAM**: [삼성전자 노트북 DDR4-3200 (8GB)](https://prod.danawa.com/info/?pcode=10853625) x 2
 * **GPU**: Intel UHD Graphics 770
-* **케이스**: [ASRock Jupiter H610](https://www.asrock.com/nettop/Intel/Jupiter%20H610/index.kr.asp?cat=Memory) + 180W 어댑터
+* **MB, 케이스, 파워**: [ASRock Jupiter H610 180W](https://www.asrock.com/nettop/Intel/Jupiter%20H610/index.kr.asp?cat=Memory)
+  
+## 게임 장비
+* **키보드**: [한성컴퓨터 TFG Magnetox XF (Mocha Cocoa)](https://prod.danawa.com/info/?pcode=59269538)
+* **키보드(리듬게임)**: 재아콘 미니(1세대)
+* **마우스**: [로지텍 G PRO X SUPERLIGHT 2 (화이트)](https://prod.danawa.com/info/?pcode=28481684)
+* **모니터**: [HP 오멘 27qs](https://prod.danawa.com/info/?pcode=20667995)
+* **스피커**: [PreSonus Eris 3.5 Gen2](https://prod.danawa.com/info/?pcode=65369777)
 
 ## 방송 장비
 * **카메라**: [로지텍 StreamCam](https://prod.danawa.com/info/?pcode=11143674)
 * **마이크**: [베링거 TM1](https://prod.danawa.com/info/?pcode=16352528)
 * **마이크 암**: [Elgato WAVE MIC ARM LP](https://prod.danawa.com/info/?pcode=14965940)
+* **캡쳐보드**: [EVGA XR1 Pro Capture Card](https://www.evga.com/products/product.aspx?pn=144-U1-CB21-LR)
 * **오디오 인터페이스**: [Audient ID14 MK2](https://prod.danawa.com/info/?pcode=14171831)
+
+## 콘솔
+* Nintendo Switch
+* PlayStation 5
