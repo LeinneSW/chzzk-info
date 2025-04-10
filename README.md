@@ -7,7 +7,7 @@
 * **케이스**: [darkFlash DLX21 RGB MESH 강화유리(화이트)](https://prod.danawa.com/info/?pcode=11884207)
 * **파워**: [MSI MPG A1000G 80PLUS골드 풀모듈러 ATX3.1](https://prod.danawa.com/info/?pcode=13168653)
 * **쿨러**: [3RSYS Socoool RC1900N 솔더링 (블랙)](https://prod.danawa.com/info/?pcode=52261076)
-* **팬**: [ARCTIC P14 MAX (블랙)](https://prod.danawa.com/info/?pcode=53520110)
+* **팬**: [ARCTIC P14 MAX (블랙)](https://prod.danawa.com/info/?pcode=53520110) x 5
 
 ## 게임 장비
 * **키보드**: [한성컴퓨터 TFG Magnetox XF (Mocha Cocoa)](https://prod.danawa.com/info/?pcode=59269538)
@@ -16,7 +16,7 @@
 
 ## 송출 PC 사양
 
-* **CPU**: [Intel Core i5 12500](https://prod.danawa.com/info/?pcode=16101398)
+* **CPU**: [Intel Core i5-12500](https://prod.danawa.com/info/?pcode=16101398)
 * **RAM**: [삼성전자 노트북 DDR4-3200 (8GB)](https://prod.danawa.com/info/?pcode=10853625) x 2
 * **GPU**: Intel UHD Graphics 770
 * **케이스**: [ASRock Jupiter H610](https://www.asrock.com/nettop/Intel/Jupiter%20H610/index.kr.asp?cat=Memory) + 180W 어댑터
