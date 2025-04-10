@@ -15,8 +15,13 @@
 * **모니터**: [HP 오멘 27qs](https://prod.danawa.com/info/?pcode=20667995)
 
 ## 송출 PC 사양
-
 * **CPU**: [Intel Core i5-12500](https://prod.danawa.com/info/?pcode=16101398)
 * **RAM**: [삼성전자 노트북 DDR4-3200 (8GB)](https://prod.danawa.com/info/?pcode=10853625) x 2
 * **GPU**: Intel UHD Graphics 770
 * **케이스**: [ASRock Jupiter H610](https://www.asrock.com/nettop/Intel/Jupiter%20H610/index.kr.asp?cat=Memory) + 180W 어댑터
+
+## 방송 장비
+* **카메라**: [로지텍 StreamCam](https://prod.danawa.com/info/?pcode=11143674)
+* **마이크**: [베링거 TM1](https://prod.danawa.com/info/?pcode=16352528)
+* **마이크 암**: [Elgato WAVE MIC ARM LP](https://prod.danawa.com/info/?pcode=14965940)
+* **오디오 인터페이스**: [Audient ID14 MK2](https://prod.danawa.com/info/?pcode=14171831)
